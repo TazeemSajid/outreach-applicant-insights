@@ -99,4 +99,19 @@ enrollment growth at Saint Louis University, powered by Excelerate.
 
 ---
 
-## 📁 Repository Structure
+## 👥 Team Members
+| Name | Email |
+|------|-------|
+| Muhammad Tazeem Sajid | tazeemsajid22@gmail.com |
+| Harshita Kothur | harshithaskothur@gmail.com |
+| Tashu Agrahari | tashuagrahari234@gmail.com |
+| Parminder Kaur | parminderkaur5628@gmail.com |
+| Aadya Sharma | aadysharma2509@gmail.com |
+
+---
+
+## 🎓 Internship Details
+- **Organization:** Excelerate × Saint Louis University
+- **Duration:** 4 Weeks
+- **Role:** Data Visualization Intern
+- **Team:** Team 15
